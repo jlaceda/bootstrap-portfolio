@@ -68,6 +68,19 @@ input[type=submit] {
     border: none;
 }
 
+/* Portfolio Page
+-------------------------------------------------- */
+
+.project .card-title {
+    bottom: 0.1em;
+    left: 0px;
+    right: 0px;
+    padding: 0.75em 0em 0.75em 0em;
+    background-color: #4aaaa5;
+    color:white;
+}
+
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
