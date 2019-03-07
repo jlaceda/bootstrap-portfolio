@@ -62,7 +62,7 @@ img#john {
     width: 200px;
 }
 
-input[type=submit] {
+button[type=submit] {
     background-color: #4aaaa5;
     color: white;
     border: none;
